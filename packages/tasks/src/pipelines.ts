@@ -643,6 +643,12 @@ export const PIPELINE_DATA = {
 		modality: "cv",
 		hideInDatasets: true,
 	},
+	"molecules": {
+		name: "Molecules",
+		modality: "other",
+		color: "green",
+		hideInDatasets: true,
+	},
 	other: {
 		name: "Other",
 		modality: "other",
